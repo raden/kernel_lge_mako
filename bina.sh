@@ -9,7 +9,7 @@ export CROSS_COMPILE=/opt/sabermod-gcc/bin/arm-eabi-
 
 export KBUILD_BUILD_USER=najmi
 export KBUILD_BUILD_HOST="ampng"
-export LOCALVERSION="-Seladang-AOSP-v7"
+export LOCALVERSION="-Seladang-AOSP-v8"
 
 #echo "Copy backup config..."
 #cp najmi-mako-config .config
